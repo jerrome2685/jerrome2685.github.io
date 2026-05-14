@@ -3,5 +3,23 @@ languageCode = 'en-us'
 title = 'My Theory Archive'
 theme = 'PaperMod'
 
+[menu]
+  [[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 10
+
+  [[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 20
+
 [params]
 math = true
+
+[params.profileMode]
+enabled = true
+title = "Hyeongjoe's Archive"
+subtitle = "Theoretical Computer Science & Mathematics"
