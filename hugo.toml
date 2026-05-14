@@ -23,3 +23,22 @@ math = true
 enabled = true
 title = "Hyeongjoe's Archive"
 subtitle = "Theoretical Computer Science & Mathematics"
+
+
+[[params.profileMode.buttons]]
+name = "About Me"
+url = "/about/"
+
+[[params.profileMode.buttons]]
+name = "Read Posts"
+url = "/posts/"
+
+
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/jerrome2685"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:jerrome2685@gmail.com"
