@@ -1,0 +1,7 @@
+baseURL = 'https://jerrome2685.github.io/'
+languageCode = 'en-us'
+title = 'My Theory Archive'
+theme = 'PaperMod'
+
+[params]
+math = true
